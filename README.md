@@ -36,6 +36,28 @@ I enjoy exploring how technology works and turning curiosity into real skills th
 ✨ Problem Solving
 ✨ Tech Learning
 
+---
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaitriPatel-2228&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Always happy to learn, share and collaborate !!
+
+
+[![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelm12284@gmail.com)
+
+</div>
+
 
 ---
 
