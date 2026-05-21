@@ -1,4 +1,20 @@
-# 👋 Hey, I'm Maitri Patel
+<div align="center">
+
+<!-- Animated Gradient Header -->
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=120&section=header&text=MAITRI%20PATEL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Crafting%20Modern%20Frontend%20Experiences&descAlignY=68&descSize=18"
+/>
+
+<br/>
+
+<!-- Animated Wave Divider -->
+<img 
+src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" 
+width="100%"
+/>
+</div>
+
+## 👋 Hey, I'm Maitri Patel
 
 <h3 align="left">🎓 Computer Engineering Student | Beginner Developer | Lifelong Learner</h3>
 
